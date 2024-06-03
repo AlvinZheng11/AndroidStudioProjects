@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomMainFragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+    <item
+        android:id="@+id/bottomSecondFragment"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title="Configuration" />
+    <item
+        android:id="@+id/bottomThirdFragment"
+        android:icon="@drawable/outline_tv_24"
+        android:title="Channels" />
+</menu>

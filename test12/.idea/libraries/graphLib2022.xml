@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="graphLib2022">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/graphLib2022.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
